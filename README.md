@@ -1,3 +1,5 @@
+> App that I made during college, I dont do app developement anymore. These are just memories😇.
+
 # ToDo📝
 ###### Get things done make a ToDo
 
